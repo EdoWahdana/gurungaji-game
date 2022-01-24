@@ -1,0 +1,2510 @@
+fileFormatVersion: 2
+guid: c2c34192eb6599a419c04de7805426eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4563175796309895907
+    second: 5. Aa
+  - first:
+      213: 2864806574289120365
+    second: Soal Mad_1
+  - first:
+      213: -6424893990157309252
+    second: Soal Mad_2
+  - first:
+      213: -701803037245512763
+    second: Soal Mad_3
+  - first:
+      213: -6664013272464041701
+    second: Soal Mad_4
+  - first:
+      213: 6428179915934888266
+    second: 5 Baa
+  - first:
+      213: 7287027071496351231
+    second: 5 Taa
+  - first:
+      213: 5333456278247063922
+    second: 5 Tsaa
+  - first:
+      213: -2329160412547182516
+    second: Soal Mad_9
+  - first:
+      213: -8723879791988553035
+    second: 5 Jaa
+  - first:
+      213: -2121238806231218692
+    second: 5 Haa
+  - first:
+      213: -3045858738548054444
+    second: 5 Khoo
+  - first:
+      213: 8010701171548192159
+    second: 5 Daa
+  - first:
+      213: 2202743536426719780
+    second: Soal Mad_14
+  - first:
+      213: -683338955190657727
+    second: 5 Djaa
+  - first:
+      213: 7521178279413407588
+    second: Soal Mad_16
+  - first:
+      213: -2707828869815305157
+    second: Soal Mad_17
+  - first:
+      213: 6720924075715798747
+    second: Soal Mad_18
+  - first:
+      213: -6605554460437698170
+    second: Soal Mad_20
+  - first:
+      213: 6986111476774484637
+    second: Soal Mad_22
+  - first:
+      213: 784267840258282259
+    second: Soal Mad_23
+  - first:
+      213: 8930672579457761668
+    second: Soal Mad_24
+  - first:
+      213: 5205279606326721001
+    second: 5 Djii
+  - first:
+      213: 2426271791437087467
+    second: Soal Mad_26
+  - first:
+      213: 8364233507740491021
+    second: 5 Ii
+  - first:
+      213: 1671140110129221329
+    second: 5 Bii
+  - first:
+      213: -4970128166735567915
+    second: 5 Tii
+  - first:
+      213: -5801959473920993902
+    second: 5 Tsii
+  - first:
+      213: -8894063726799611548
+    second: 5 Jii
+  - first:
+      213: 9065715746388854146
+    second: 5 Hii
+  - first:
+      213: -2022161490798404712
+    second: 5 Khii
+  - first:
+      213: -1417664303698051459
+    second: 5 Dii
+  - first:
+      213: -8491195486043219231
+    second: Soal Mad_35
+  - first:
+      213: -537980189984703061
+    second: Soal Mad_36
+  - first:
+      213: -2112887635561650735
+    second: Soal Mad_38
+  - first:
+      213: 2754760031739274422
+    second: Soal Mad_39
+  - first:
+      213: 283756034216522250
+    second: Soal Mad_43
+  - first:
+      213: -3559948054723249711
+    second: Soal Mad_44
+  - first:
+      213: 1948904980440700346
+    second: Soal Mad_45
+  - first:
+      213: -1508386376359140543
+    second: Soal Mad_46
+  - first:
+      213: 169082037603175398
+    second: Soal Mad_47
+  - first:
+      213: 3022648339172946455
+    second: Soal Mad_48
+  - first:
+      213: 2459131442671097249
+    second: Soal Mad_49
+  - first:
+      213: -1700633629569175418
+    second: Soal Mad_50
+  - first:
+      213: -1569779530859203901
+    second: Soal Mad_52
+  - first:
+      213: 7162643431441190376
+    second: Soal Mad_53
+  - first:
+      213: 7716199653311152552
+    second: Soal Mad_54
+  - first:
+      213: -6353785743547024227
+    second: Soal Mad_55
+  - first:
+      213: 1318256952629118959
+    second: Soal Mad_58
+  - first:
+      213: 1964812473713900500
+    second: Soal Mad_59
+  - first:
+      213: 7534658009887120395
+    second: Soal Mad_60
+  - first:
+      213: 33854151057604516
+    second: Soal Mad_62
+  - first:
+      213: -8816266767626784710
+    second: Soal Mad_63
+  - first:
+      213: 706112318961572498
+    second: Soal Mad_64
+  - first:
+      213: 6522465553906843708
+    second: Soal Mad_65
+  - first:
+      213: 461997151644457982
+    second: Soal Mad_66
+  - first:
+      213: -65382118391311446
+    second: Soal Mad_67
+  - first:
+      213: 205988779932463604
+    second: 5 Uu
+  - first:
+      213: 5360390972135937954
+    second: 5 Buu
+  - first:
+      213: -2382114404306507398
+    second: 5 Tuu
+  - first:
+      213: 6982637594701717569
+    second: 5 Tsuu
+  - first:
+      213: -7136661615505142944
+    second: 5 Juu
+  - first:
+      213: 4124564112377579752
+    second: 5 Huu
+  - first:
+      213: -5837517011666318314
+    second: 5 Khuu
+  - first:
+      213: 2392204965257557158
+    second: 5 Duu
+  - first:
+      213: 8250053449026990963
+    second: 5 Djuu
+  - first:
+      213: 7249678451303996109
+    second: Soal Mad_77
+  - first:
+      213: 4393816271451202818
+    second: Soal Mad_78
+  - first:
+      213: 8610381841704637191
+    second: Soal Mad_79
+  - first:
+      213: 8191286019175324692
+    second: 5 Sin A
+  - first:
+      213: -9096996752843739746
+    second: 5 Syaa
+  - first:
+      213: -2071657769755397125
+    second: Soal Mad_82
+  - first:
+      213: 5454184305557601455
+    second: 5 Soo
+  - first:
+      213: 6034935072837964566
+    second: 5 Doo
+  - first:
+      213: -7092094752590960205
+    second: Soal Mad_85
+  - first:
+      213: -496024764508331680
+    second: 5 Too
+  - first:
+      213: 8222019113778270079
+    second: 5 Dzoo
+  - first:
+      213: -2130578340935213229
+    second: Soal Mad_88
+  - first:
+      213: -3487091081743792623
+    second: 5. Aain
+  - first:
+      213: 2625059033113765129
+    second: Soal Mad_90
+  - first:
+      213: -7417577768518669275
+    second: Soal Mad_91
+  - first:
+      213: -2537729315565108569
+    second: Soal Mad_92
+  - first:
+      213: -121944539722008976
+    second: 5 Ja
+  - first:
+      213: -7751907656731583347
+    second: 5 Rii
+  - first:
+      213: -1763292221646701509
+    second: 5 Ji
+  - first:
+      213: -2302682871077704156
+    second: Soal Mad_96
+  - first:
+      213: 8580633080369356265
+    second: Soal Mad_97
+  - first:
+      213: 8428846878189081233
+    second: Soal Mad_98
+  - first:
+      213: 2149366223350672749
+    second: 5 Ti
+  - first:
+      213: -5300302593030181509
+    second: 5 Dzii
+  - first:
+      213: -372051199913565368
+    second: 5 Aiin
+  - first:
+      213: -5284781279806576621
+    second: Soal Mad_102
+  - first:
+      213: 966835935598531877
+    second: Soal Mad_103
+  - first:
+      213: -5079263964912371919
+    second: 5 Sin I
+  - first:
+      213: -8445040448646321251
+    second: 5 Syii
+  - first:
+      213: -7323636416146011546
+    second: 5 Soi
+  - first:
+      213: -313534463318121225
+    second: 5 Di
+  - first:
+      213: 456574892792404306
+    second: Soal Mad_108
+  - first:
+      213: -5379610417345354810
+    second: Soal Mad_109
+  - first:
+      213: -8340158255997037105
+    second: Soal Mad_110
+  - first:
+      213: 7937858446694603720
+    second: Soal Mad_111
+  - first:
+      213: -3979905611886154428
+    second: Soal Mad_112
+  - first:
+      213: 3215025653833260394
+    second: Soal Mad_113
+  - first:
+      213: -6040072357014380676
+    second: Soal Mad_114
+  - first:
+      213: -3936337601546318556
+    second: Soal Mad_115
+  - first:
+      213: 4651466407526326105
+    second: Soal Mad_116
+  - first:
+      213: -950583273258169629
+    second: Soal Mad_117
+  - first:
+      213: -3638771701727128132
+    second: Soal Mad_118
+  - first:
+      213: 5571909239356726304
+    second: Soal Mad_119
+  - first:
+      213: -1795473302384343436
+    second: Soal Mad_120
+  - first:
+      213: 9028214590725646858
+    second: Soal Mad_121
+  - first:
+      213: -3809202719378527648
+    second: Soal Mad_122
+  - first:
+      213: -2048089215827053596
+    second: Soal Mad_123
+  - first:
+      213: -7716981303925726875
+    second: Soal Mad_124
+  - first:
+      213: 1985420698235136305
+    second: 5 Tu
+  - first:
+      213: 9177260293812803903
+    second: Soal Mad_126
+  - first:
+      213: -800719539303868633
+    second: 5 Dzuu
+  - first:
+      213: -5700161083655531048
+    second: Soal Mad_128
+  - first:
+      213: 6601954141741780721
+    second: Soal Mad_129
+  - first:
+      213: 8064960179796310898
+    second: Soal Mad_130
+  - first:
+      213: 8557628206623205031
+    second: Soal Mad_131
+  - first:
+      213: 3153101430960103742
+    second: Soal Mad_132
+  - first:
+      213: -3037101688181590769
+    second: 5 Ru
+  - first:
+      213: 278669409720170204
+    second: Soal Mad_134
+  - first:
+      213: 1071654640763988573
+    second: 5 Ju
+  - first:
+      213: -1221884079078474990
+    second: Soal Mad_136
+  - first:
+      213: -6843650769592445213
+    second: 5 Sin U
+  - first:
+      213: -7873842404860310937
+    second: 5 Syuu
+  - first:
+      213: 7006707962086022340
+    second: 5 Sou
+  - first:
+      213: 7999458568554589294
+    second: 5 Du
+  - first:
+      213: -1881028498751672945
+    second: 5 Uuin
+  - first:
+      213: 6033845867116491650
+    second: Soal Mad_142
+  - first:
+      213: 7000689764340374745
+    second: Soal Mad_143
+  - first:
+      213: 6427070577633621335
+    second: Soal Mad_144
+  - first:
+      213: -1337990398404370925
+    second: 5 Ka
+  - first:
+      213: 8156784632835542047
+    second: Soal Mad_146
+  - first:
+      213: 5926566969826120849
+    second: Soal Mad_147
+  - first:
+      213: 1747311837670054358
+    second: Soal Mad_148
+  - first:
+      213: -2897761562135699481
+    second: 5. Goo
+  - first:
+      213: 4219905563125989098
+    second: 5 Fa
+  - first:
+      213: -9150983818517944084
+    second: Soal Mad_151
+  - first:
+      213: 8758996496995479478
+    second: 5 Qo
+  - first:
+      213: -5339400639118023788
+    second: Soal Mad_153
+  - first:
+      213: -5730197360643937252
+    second: 5 La
+  - first:
+      213: 8585802841232033100
+    second: 5 Ma
+  - first:
+      213: -1197165453776287369
+    second: 5 Na
+  - first:
+      213: 8745330687357467921
+    second: 5 HA
+  - first:
+      213: 7329792430697481311
+    second: Soal Mad_158
+  - first:
+      213: -4023390582638401076
+    second: Soal Mad_159
+  - first:
+      213: 2091251152822231314
+    second: Soal Mad_160
+  - first:
+      213: 6739257470214288623
+    second: 5 Wa
+  - first:
+      213: 68058789595691190
+    second: Soal Mad_162
+  - first:
+      213: 6590996552938890041
+    second: Soal Mad_163
+  - first:
+      213: 4609254578352274556
+    second: Soal Mad_164
+  - first:
+      213: -3791253094661769499
+    second: 5 Ki
+  - first:
+      213: 5997040451845092159
+    second: 5 Li
+  - first:
+      213: 6779391527646590065
+    second: Soal Mad_167
+  - first:
+      213: -3642494742343824731
+    second: 5 Gi
+  - first:
+      213: 7376051309580328065
+    second: 5 Fi
+  - first:
+      213: -6183076816531445371
+    second: 5 Qi
+  - first:
+      213: 2941050557681893222
+    second: 5 Mi
+  - first:
+      213: 2829437551722970508
+    second: 5 Ni
+  - first:
+      213: -5214052992609961609
+    second: 5 HI
+  - first:
+      213: -4306812470632345523
+    second: 5 Wi
+  - first:
+      213: -7204036237612998531
+    second: Soal Mad_175
+  - first:
+      213: 7496345528892675806
+    second: Soal Mad_176
+  - first:
+      213: 5714402236875129932
+    second: Soal Mad_177
+  - first:
+      213: 4288445008105332421
+    second: Soal Mad_178
+  - first:
+      213: 4449339521056110714
+    second: Soal Mad_179
+  - first:
+      213: 7805596052283697441
+    second: Soal Mad_180
+  - first:
+      213: 7391250935259481105
+    second: Soal Mad_181
+  - first:
+      213: -8009571473387501958
+    second: Soal Mad_182
+  - first:
+      213: -1668409719071360744
+    second: Soal Mad_183
+  - first:
+      213: 703652736306366871
+    second: Soal Mad_184
+  - first:
+      213: 5067654868489790313
+    second: Soal Mad_185
+  - first:
+      213: 1080516974783802907
+    second: Soal Mad_186
+  - first:
+      213: -4394177672997031778
+    second: Soal Mad_187
+  - first:
+      213: 364182182293379784
+    second: Soal Mad_188
+  - first:
+      213: 3807764304030216554
+    second: 5 Ku
+  - first:
+      213: -8823796553441354652
+    second: Soal Mad_190
+  - first:
+      213: 5030595561333264498
+    second: Soal Mad_191
+  - first:
+      213: 4745002020589046438
+    second: Soal Mad_192
+  - first:
+      213: 6730030206045775289
+    second: Soal Mad_193
+  - first:
+      213: 1176612162176797864
+    second: Soal Mad_194
+  - first:
+      213: 3867551504354581790
+    second: Soal Mad_195
+  - first:
+      213: 1548771517721677076
+    second: Soal Mad_196
+  - first:
+      213: -5875439429788108378
+    second: Soal Mad_197
+  - first:
+      213: -3403604320452740413
+    second: 5 Lu
+  - first:
+      213: 519214132877983150
+    second: Soal Mad_199
+  - first:
+      213: -8755346690771392725
+    second: Soal Mad_200
+  - first:
+      213: 4857910558177964826
+    second: 5 Gu
+  - first:
+      213: 5986369988805547126
+    second: 5 Fu
+  - first:
+      213: 4900252030144739209
+    second: 5 Qu
+  - first:
+      213: 8290123268111018576
+    second: 5 Mu
+  - first:
+      213: 1664943063575053679
+    second: 5 Nu
+  - first:
+      213: -3634200218419234373
+    second: 5 HU
+  - first:
+      213: -6991459615697746434
+    second: 5 Wu
+  - first:
+      213: 4505718651789340815
+    second: Soal Mad_208
+  - first:
+      213: 5238492354437664670
+    second: 5 Ya
+  - first:
+      213: -817780393490276708
+    second: Soal Mad_210
+  - first:
+      213: -2878340921484522764
+    second: 5 Yi
+  - first:
+      213: -6067051346087556326
+    second: Soal Mad_212
+  - first:
+      213: -2265861631472459871
+    second: Soal Mad_213
+  - first:
+      213: -6682777889832307344
+    second: Soal Mad_214
+  - first:
+      213: -7762535409362054310
+    second: Soal Mad_215
+  - first:
+      213: 5072391611814209573
+    second: 5 Yu
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5. Aa
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 866
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15d94d3ac75ca0c0800000000000000
+      internalID: -4563175796309895907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Baa
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 854
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a417999539b753950800000000000000
+      internalID: 6428179915934888266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Taa
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 866
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffde1316388b02560800000000000000
+      internalID: 7287027071496351231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Tsaa
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 866
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2714ef92a3e340a40800000000000000
+      internalID: 5333456278247063922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Jaa
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 857
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba405fdc8d8ee680800000000000000
+      internalID: -8723879791988553035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Haa
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 866
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf580d66b88df82e0800000000000000
+      internalID: -2121238806231218692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Khoo
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 866
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456e2dc6d9feab5d0800000000000000
+      internalID: -3045858738548054444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Daa
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 866
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d7fe3e54abb2f60800000000000000
+      internalID: 8010701171548192159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Djaa
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 866
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9caa37da4486f0800000000000000
+      internalID: -683338955190657727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Djii
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 794
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e970b3293edc3840800000000000000
+      internalID: 5205279606326721001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Ii
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 788
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d9a474f0ab31470800000000000000
+      internalID: 8364233507740491021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Bii
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 780
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dec82a7315113710800000000000000
+      internalID: 1671140110129221329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Tii
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 786
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d32095e3ce860bb0800000000000000
+      internalID: -4970128166735567915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Tsii
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 787
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2951abb399c4b7fa0800000000000000
+      internalID: -5801959473920993902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Jii
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 785
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4691c6ac920f19480800000000000000
+      internalID: -8894063726799611548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Hii
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 786
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854c2a6074efcd70800000000000000
+      internalID: 9065715746388854146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Khii
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 786
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b9c7686d6dfe3e0800000000000000
+      internalID: -2022161490798404712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Dii
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 790
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e735fa3d1735ce0800000000000000
+      internalID: -1417664303698051459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Uu
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 735
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1379734b1dbd200800000000000000
+      internalID: 205988779932463604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Buu
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 732
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a79f57403fe36a40800000000000000
+      internalID: 5360390972135937954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Tuu
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 732
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7928fcf19701fed0800000000000000
+      internalID: -2382114404306507398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Tsuu
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 732
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140eb7395ef47e060800000000000000
+      internalID: 6982637594701717569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Juu
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 732
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b86a5821c75fc90800000000000000
+      internalID: -7136661615505142944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Huu
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 732
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8079315356d3930800000000000000
+      internalID: 4124564112377579752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Khuu
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 732
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c4455d439fcfea0800000000000000
+      internalID: -5837517011666318314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Duu
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 735
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a43a10ddb1d23120800000000000000
+      internalID: 2392204965257557158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Djuu
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 735
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3737d37b6e31e7270800000000000000
+      internalID: 8250053449026990963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Sin A
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 624
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c91923c3b4da170800000000000000
+      internalID: 8191286019175324692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Syaa
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 624
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dedd7b6a9f0c180800000000000000
+      internalID: -9096996752843739746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Soo
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 619
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac75487ab721bb40800000000000000
+      internalID: 5454184305557601455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Doo
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 619
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6139d0b697560c350800000000000000
+      internalID: 6034935072837964566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Too
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 624
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0612fafca14cd19f0800000000000000
+      internalID: -496024764508331680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Dzoo
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 624
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fc93562da7a1270800000000000000
+      internalID: 8222019113778270079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. Aain
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 624
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1168a35f22d5b9fc0800000000000000
+      internalID: -3487091081743792623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soal Mad_92
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 614
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a285a902ac28ccd0800000000000000
+      internalID: -2537729315565108569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Ja
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 614
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07632935614ce4ef0800000000000000
+      internalID: -121944539722008976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Rii
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 546
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c12ecbe01bb6490800000000000000
+      internalID: -7751907656731583347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Ji
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 546
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cf98511178787e0800000000000000
+      internalID: -1763292221646701509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Ti
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 544
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d2a0b313514dd10800000000000000
+      internalID: 2149366223350672749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Dzii
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 544
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7daa54bfda8176b0800000000000000
+      internalID: -5300302593030181509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Aiin
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 543
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843e4e6a76536daf0800000000000000
+      internalID: -372051199913565368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Sin I
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 544
+        width: 48
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5213159, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137b4f2c554d289b0800000000000000
+      internalID: -5079263964912371919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Syii
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 544
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b61a8a4703dca80800000000000000
+      internalID: -8445040448646321251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Soi
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 544
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a80875b773d5a90800000000000000
+      internalID: -7323636416146011546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Di
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 544
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4a419111a16abf0800000000000000
+      internalID: -313534463318121225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Tu
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 490
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13963081b91ad8b10800000000000000
+      internalID: 1985420698235136305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Dzuu
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 490
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727141742d543e4f0800000000000000
+      internalID: -800719539303868633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Ru
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 493
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0572391b1c0ad5d0800000000000000
+      internalID: -3037101688181590769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Ju
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 493
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae2a8c7384fde00800000000000000
+      internalID: 1071654640763988573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Sin U
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 490
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e61d9f52e77601a0800000000000000
+      internalID: -6843650769592445213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Syuu
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 490
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ac4e8dc0e7ab290800000000000000
+      internalID: -7873842404860310937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Sou
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 490
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd905b4c3dc3160800000000000000
+      internalID: 7006707962086022340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Du
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 490
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ca6266f29c30f60800000000000000
+      internalID: 7999458568554589294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Uuin
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 490
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d2587eb8e35e5e0800000000000000
+      internalID: -1881028498751672945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Ka
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 381
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e593652d08e6de0800000000000000
+      internalID: -1337990398404370925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5. Goo
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 382
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efde15563519c7d0800000000000000
+      internalID: -2897761562135699481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Fa
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 382
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeb1db60cd109a30800000000000000
+      internalID: 4219905563125989098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Qo
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 382
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf6e4828e43e8970800000000000000
+      internalID: 8758996496995479478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 La
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 377
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cefe14cdf3a70b0800000000000000
+      internalID: -5730197360643937252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Ma
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 382
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45cc2fc136e62770800000000000000
+      internalID: 8585802841232033100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Na
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 382
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7798b46dc50d26fe0800000000000000
+      internalID: -1197165453776287369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 HA
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 382
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11db347ece7ad5970800000000000000
+      internalID: 8745330687357467921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Wa
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 372
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4350a86f6a68d50800000000000000
+      internalID: 6739257470214288623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Ki
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 302
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6b517b563c26bc0800000000000000
+      internalID: -3791253094661769499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Li
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 302
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33ffdb6484c93350800000000000000
+      internalID: 5997040451845092159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Gi
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 302
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa4e52a452437dc0800000000000000
+      internalID: -3642494742343824731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Fi
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 303
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c1798069ffc5660800000000000000
+      internalID: 7376051309580328065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Qi
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 303
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a0bb056c413aa0800000000000000
+      internalID: -6183076816531445371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Mi
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 301
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ff71d56e5b0d820800000000000000
+      internalID: 2941050557681893222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Ni
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 303
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d3998567e244720800000000000000
+      internalID: 2829437551722970508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 HI
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 301
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779bb6fad66f3a7b0800000000000000
+      internalID: -5214052992609961609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Wi
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 304
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d409cbd50e02b34c0800000000000000
+      internalID: -4306812470632345523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Ku
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 248
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61322ac575e7d430800000000000000
+      internalID: 3807764304030216554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Lu
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 248
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cafd6357e7f3c0d0800000000000000
+      internalID: -3403604320452740413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Gu
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1331d21ae3ca6340800000000000000
+      internalID: 4857910558177964826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Fu
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 248
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67450d4a9cbd31350800000000000000
+      internalID: 5986369988805547126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Qu
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 248
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f9ae3241310440800000000000000
+      internalID: 4900252030144739209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Mu
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 248
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a25fb703f6c0370800000000000000
+      internalID: 8290123268111018576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Nu
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 248
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6544a325e01b1710800000000000000
+      internalID: 1664943063575053679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 HU
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 248
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9797af72ab09dc0800000000000000
+      internalID: -3634200218419234373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Wu
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 251
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5c8d8958859fe90800000000000000
+      internalID: -6991459615697746434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Ya
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 129
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f4bd8aa0dd2b840800000000000000
+      internalID: 5238492354437664670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Yi
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fac1789e241e08d0800000000000000
+      internalID: -2878340921484522764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Yu
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5286bd7db41c46640800000000000000
+      internalID: 5072391611814209573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

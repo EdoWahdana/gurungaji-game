@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: faec2da6f1b8fcf4885ff070ae00f2c9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HollaBear
+  fontNames:
+  - HollaBear
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 554d382fa1d8bae4b81ca08c58588a25, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

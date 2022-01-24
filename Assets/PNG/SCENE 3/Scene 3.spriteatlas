@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Scene 3
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0992887ff80618843aa8aa277fac65eb, type: 3}
+    - {fileID: 2800000, guid: 35287ce91a2852c448d75632526d41a1, type: 3}
+    - {fileID: 2800000, guid: 79d354201df419447a3d48461ac8e5b3, type: 3}
+    - {fileID: 2800000, guid: b37519d5fdd57fd4a89275f7ddf24530, type: 3}
+    - {fileID: 2800000, guid: ffdf75e1de7fb9344bb3780cf31e988f, type: 3}
+    - {fileID: 2800000, guid: 426bd7ce9c0b44f4b9ba800a3b228470, type: 3}
+    - {fileID: 2800000, guid: 18da0756919a90f47a1242164716fc5c, type: 3}
+    - {fileID: 2800000, guid: b0e26913adf4a854b8f63a1e495dc95a, type: 3}
+    - {fileID: 2800000, guid: 427e3f53da7589847acbbdb3ddc18ffd, type: 3}
+    - {fileID: 2800000, guid: 130362d6a9f229a44865cd6340ed7bd6, type: 3}
+    - {fileID: 2800000, guid: 1c3c7f51277b6d04bbbcd7bab3b85e15, type: 3}
+    - {fileID: 2800000, guid: 636036264c9a4cf458aaf5bc9a92eec3, type: 3}
+    - {fileID: 2800000, guid: 04e065b9b32ec6d4f975c0c06175bab9, type: 3}
+    - {fileID: 2800000, guid: 2369daded07f98647a7a05f6a5c5af72, type: 3}
+    - {fileID: 2800000, guid: b683c23cec66e60489e8bd7968757a1b, type: 3}
+    - {fileID: 2800000, guid: b77a283827c91f9458a5d4b559136203, type: 3}
+    - {fileID: 2800000, guid: 5c38826760c79d64491ded09970c7e67, type: 3}
+    - {fileID: 2800000, guid: 8e7f74716cb2d0f46b78a29e453ee989, type: 3}
+    - {fileID: 2800000, guid: c465afef7b710264295e8de96c78f80d, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 79d354201df419447a3d48461ac8e5b3, type: 3}
+  - {fileID: 21300000, guid: 1c3c7f51277b6d04bbbcd7bab3b85e15, type: 3}
+  - {fileID: 21300000, guid: 8e7f74716cb2d0f46b78a29e453ee989, type: 3}
+  - {fileID: 21300000, guid: ffdf75e1de7fb9344bb3780cf31e988f, type: 3}
+  - {fileID: 21300000, guid: b0e26913adf4a854b8f63a1e495dc95a, type: 3}
+  - {fileID: 21300000, guid: 427e3f53da7589847acbbdb3ddc18ffd, type: 3}
+  - {fileID: 21300000, guid: b37519d5fdd57fd4a89275f7ddf24530, type: 3}
+  - {fileID: 21300000, guid: 636036264c9a4cf458aaf5bc9a92eec3, type: 3}
+  - {fileID: 21300000, guid: 18da0756919a90f47a1242164716fc5c, type: 3}
+  - {fileID: 21300000, guid: 130362d6a9f229a44865cd6340ed7bd6, type: 3}
+  - {fileID: 21300000, guid: 5c38826760c79d64491ded09970c7e67, type: 3}
+  - {fileID: 21300000, guid: b77a283827c91f9458a5d4b559136203, type: 3}
+  - {fileID: 21300000, guid: 04e065b9b32ec6d4f975c0c06175bab9, type: 3}
+  - {fileID: 21300000, guid: 35287ce91a2852c448d75632526d41a1, type: 3}
+  - {fileID: 21300000, guid: b683c23cec66e60489e8bd7968757a1b, type: 3}
+  - {fileID: 21300000, guid: 426bd7ce9c0b44f4b9ba800a3b228470, type: 3}
+  - {fileID: 21300000, guid: 2369daded07f98647a7a05f6a5c5af72, type: 3}
+  - {fileID: 21300000, guid: 0992887ff80618843aa8aa277fac65eb, type: 3}
+  - {fileID: 21300000, guid: c465afef7b710264295e8de96c78f80d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - pipa
+  - Silang
+  - card
+  - HUKMA SEDIH
+  - HUKMA SENANG
+  - SYABIYA SEDIH
+  - background
+  - PAUSE BUTTON
+  - Ceklis
+  - SYABIYA SENANG
+  - KELUAR BUTTON
+  - LANJUTKAN BUTTON
+  - BG MENU PAUSE
+  - papan
+  - RESTART BUTTON
+  - GELEMBUNG
+  - Tombol
+  - papan for pause
+  - BACK BUTTON
+  m_Tag: Scene 3
+  m_IsVariant: 0
